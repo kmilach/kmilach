@@ -6,8 +6,9 @@ I love learning about many areas of InfoSec, such as incident response, forensic
 
 ## :closed_book::green_book::blue_book:
 
-Currently, I aim to improve my scripting skills, be it ```Python``` or ```PowerShell```, so as to automate many of the tasks I manually do or simply for fun!
+Currently, I aim to improve my ```Python``` scripting skills, so as to automate many of the tasks I manually do or simply for fun!
 
 ## Contact
 
-You can find me via [LinkedIn](https://www.linkedin.com/in/kelvin-milach/), just send me a message and let's chat!
+You can find me via LinkedIn, just send me a message and let's chat!
+[![LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kelvin-f-milach/)
